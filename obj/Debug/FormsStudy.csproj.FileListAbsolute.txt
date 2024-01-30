@@ -1,0 +1,11 @@
+C:\Users\khw\Documents\code\c#\FormsStudy\bin\Debug\FormsStudy.exe.config
+C:\Users\khw\Documents\code\c#\FormsStudy\bin\Debug\FormsStudy.exe
+C:\Users\khw\Documents\code\c#\FormsStudy\bin\Debug\FormsStudy.pdb
+C:\Users\khw\Documents\code\c#\FormsStudy\obj\Debug\FormsStudy.csproj.AssemblyReference.cache
+C:\Users\khw\Documents\code\c#\FormsStudy\obj\Debug\FormsStudy.Form1.resources
+C:\Users\khw\Documents\code\c#\FormsStudy\obj\Debug\FormsStudy.Properties.Resources.resources
+C:\Users\khw\Documents\code\c#\FormsStudy\obj\Debug\FormsStudy.csproj.GenerateResource.cache
+C:\Users\khw\Documents\code\c#\FormsStudy\obj\Debug\FormsStudy.csproj.CoreCompileInputs.cache
+C:\Users\khw\Documents\code\c#\FormsStudy\obj\Debug\FormsStudy.exe
+C:\Users\khw\Documents\code\c#\FormsStudy\obj\Debug\FormsStudy.pdb
+C:\Users\khw\Documents\code\c#\FormsStudy\obj\Debug\FormsStudy.Form2.resources
