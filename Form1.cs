@@ -32,7 +32,7 @@ namespace FormsStudy
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
             // 체크여부에 따라 비밀번호 표시
-            Pwd_textbox.UseSystemPasswordChar = checkBox_showPwd.Checked ? false : true;
+            Pwd_textbox.UseSystemPasswordChar = !checkBox_showPwd.Checked;
         }
 
         private void button_submit_Click(object sender, EventArgs e)
@@ -49,7 +49,6 @@ namespace FormsStudy
             Form2 form2 = new Form2(Id, Pwd );
             this.Hide();
             form2.Show();
-        }
-        
+        }        
     }
 }
